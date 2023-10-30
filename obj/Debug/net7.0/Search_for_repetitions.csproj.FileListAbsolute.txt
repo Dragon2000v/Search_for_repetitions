@@ -1,0 +1,14 @@
+D:\Прог\Прог2023\Search_for_repetitions\bin\Debug\net7.0\Search_for_repetitions.exe
+D:\Прог\Прог2023\Search_for_repetitions\bin\Debug\net7.0\Search_for_repetitions.deps.json
+D:\Прог\Прог2023\Search_for_repetitions\bin\Debug\net7.0\Search_for_repetitions.runtimeconfig.json
+D:\Прог\Прог2023\Search_for_repetitions\bin\Debug\net7.0\Search_for_repetitions.dll
+D:\Прог\Прог2023\Search_for_repetitions\bin\Debug\net7.0\Search_for_repetitions.pdb
+D:\Прог\Прог2023\Search_for_repetitions\obj\Debug\net7.0\Search_for_repetitions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Прог\Прог2023\Search_for_repetitions\obj\Debug\net7.0\Search_for_repetitions.AssemblyInfoInputs.cache
+D:\Прог\Прог2023\Search_for_repetitions\obj\Debug\net7.0\Search_for_repetitions.AssemblyInfo.cs
+D:\Прог\Прог2023\Search_for_repetitions\obj\Debug\net7.0\Search_for_repetitions.csproj.CoreCompileInputs.cache
+D:\Прог\Прог2023\Search_for_repetitions\obj\Debug\net7.0\Search_for_repetitions.dll
+D:\Прог\Прог2023\Search_for_repetitions\obj\Debug\net7.0\refint\Search_for_repetitions.dll
+D:\Прог\Прог2023\Search_for_repetitions\obj\Debug\net7.0\Search_for_repetitions.pdb
+D:\Прог\Прог2023\Search_for_repetitions\obj\Debug\net7.0\Search_for_repetitions.genruntimeconfig.cache
+D:\Прог\Прог2023\Search_for_repetitions\obj\Debug\net7.0\ref\Search_for_repetitions.dll
